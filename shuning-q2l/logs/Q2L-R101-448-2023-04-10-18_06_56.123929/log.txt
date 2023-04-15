@@ -1,0 +1,5 @@
+[04/10 18:06:56.137]: Command: q2l_infer.py -a Q2L-R101-448 -b 32
+[04/10 18:06:56.138]: Full config saved to logs/Q2L-R101-448-2023-04-10-18:06:56.123929/config.json
+[04/10 18:06:56.138]: world size: 1
+[04/10 18:06:56.138]: dist.get_rank(): 0
+[04/10 18:06:56.138]: local_rank: 6
