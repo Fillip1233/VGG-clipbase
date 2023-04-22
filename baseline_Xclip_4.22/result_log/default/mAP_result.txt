@@ -1,0 +1,17 @@
+save the checkpoint in epoch:0, mAP value:53.75
+[2023-04-22 12:00:41] Epoch: 0, Map value: 53.75
+save the checkpoint in epoch:1, mAP value:57.824175824175825
+[2023-04-22 12:00:50] Epoch: 1, Map value: 57.824175824175825
+save the checkpoint in epoch:2, mAP value:59.50396825396825
+[2023-04-22 12:01:00] Epoch: 2, Map value: 59.50396825396825
+[2023-04-22 12:01:07] Epoch: 3, Map value: 52.99715909090909
+[2023-04-22 12:01:16] Epoch: 4, Map value: 53.94959207459207
+save the checkpoint in epoch:5, mAP value:59.55357142857143
+[2023-04-22 12:01:25] Epoch: 5, Map value: 59.55357142857143
+[2023-04-22 12:01:35] Epoch: 6, Map value: 54.289408508158516
+[2023-04-22 12:01:43] Epoch: 7, Map value: 53.625541125541126
+[2023-04-22 12:01:51] Epoch: 8, Map value: 56.389339826839816
+save the checkpoint in epoch:9, mAP value:60.20032051282051
+[2023-04-22 12:02:01] Epoch: 9, Map value: 60.20032051282051
+[2023-04-22 12:02:09] Epoch: 10, Map value: 57.716439810189804
+[2023-04-22 12:02:17] Epoch: 11, Map value: 56.30952380952381
